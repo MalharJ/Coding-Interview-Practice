@@ -17,7 +17,5 @@ int lss(int i, int j) {
 
 int main() {
 	cout<<lss(0,0)<<endl;
-
-	
 	return 0;
 }
